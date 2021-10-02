@@ -26,13 +26,13 @@
     
     *Help info button on the top right
     
-                                  ---------------------------------------------------------------------
+              ---------------------------------------------------------------------
                                                
-                                                             SIDE NOTE
+                                            SIDE NOTE
                                                                           
-                                        This project is limited to 2-Dimensional Kinematics Motion
+                   This project is limited to 2-Dimensional Kinematics Motion
                                                    
-                                  ---------------------------------------------------------------------
+              ---------------------------------------------------------------------
                                                
 
 -Final Message-
